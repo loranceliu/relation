@@ -1,0 +1,26 @@
+Server:
+  Name: app
+  Host: 0.0.0.0
+  Port: 8888
+
+Jwt:
+  Secret:
+  Expire:
+
+Log:
+  Dir:
+  Level:
+
+Mysql:
+  Host: 192.168.2.205
+  Port: 3306
+  User: root
+  Pwd: 3378382
+  Db: relation
+
+Redis:
+  Host:
+  Port:
+  User:
+  Pwd:
+  Db:
